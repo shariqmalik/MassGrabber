@@ -65,5 +65,7 @@ Enter WordList: testlist.txt
 [Task Complete] : Results are saved into shariq.txt
 
 </code></pre>
+![Preview]
+(https://i.imgur.com/nPoivPz.png)
 **Note**
 <p>This is just for educational purposes I'll not responsible of any harm!<p>
