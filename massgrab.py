@@ -1,7 +1,7 @@
 #!/usr/bin/python
 ####################################################
 #   	MassGrabber(Mass Admin Panel Finder)	   #
-#    			Author: Shariq Malik			   #
+#    		Author: Shariq Malik		   #
 # Tested On: Windows 7,8,8.1,10 Ubuntu 14.04,16.04 #
 ####################################################
 
